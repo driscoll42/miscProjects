@@ -1,4 +1,3 @@
-# Make a header
 # Miscellaneous Projects
 
 In this repo I have various projects I've worked on which don't worry a repo for themselves, but I still want to share. Details on each one are below.
