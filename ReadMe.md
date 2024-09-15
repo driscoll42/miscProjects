@@ -2,6 +2,8 @@
 
 In this repo I have various projects I've worked on which don't worry a repo for themselves, but I still want to share. Details on each one are below.
 
+If you find any of these useful and make a fork or use them, I'd love to hear about your use case!
+
 ## GarminScraper
 
 <img src="ReadMe_Images/GarminScraper.png" alt="drawing" width="700"/>
